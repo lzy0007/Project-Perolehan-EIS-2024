@@ -12,13 +12,13 @@ OR
 
 |Group                          |Team|
 |-------------------------------|-|
-|<a href="" >Architect</a>|IT|
-|<a href="" >ADventure</a>|Business|
-|<a href="" >LogiTech</a>|Business|
-|<a href="" >qwerty</a>|IT|
+|<a href="https://github.com/users/lzy0007/projects/9" >Architect</a>|IT|
+|<a href="https://github.com/users/lzy0007/projects/14" >ADventure</a>|Business|
+|<a href="https://github.com/users/lzy0007/projects/15" >LogiTech</a>|Business|
+|<a href="https://github.com/users/lzy0007/projects/16" >qwerty</a>|IT|
 |<a href="https://github.com/users/lzy0007/projects/7" >Crypton</a>|IT|
-|<a href="" >TITANS</a>|IT|
-|<a href="" >NexusPro</a>|Business|
-|<a href="" >JavaJunkies</a>|Business|
-|<a href="" >DevDream</a>|Business|
-|<a href="" >DataSmiths</a>|IT|
+|<a href="https://github.com/users/lzy0007/projects/13" >TITANS</a>|IT|
+|<a href="https://github.com/users/lzy0007/projects/17" >NexusPro</a>|Business|
+|<a href="https://github.com/users/lzy0007/projects/12" >JavaJunkies</a>|Business|
+|<a href="https://github.com/users/lzy0007/projects/11" >DevDream</a>|Business|
+|<a href="https://github.com/users/lzy0007/projects/10" >DataSmiths</a>|IT|
