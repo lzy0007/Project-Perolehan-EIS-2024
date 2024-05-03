@@ -6,7 +6,7 @@ Welcome to the Project Perolehan Repository for ENTERPRISE SYSTEMS DESIGN AND MO
 OR
 
 **Click on the Red Circle Tab!**
-![image](https://github.com/lzy0007/Project-Perolehan-EIS-2024/assets/95710157/cca7f6d1-924a-4ea6-aeb2-5f9b86d059f6)
+![image](https://github.com/lzy0007/Project-Perolehan-EIS-2024/assets/95710157/cca7f6d1-924a-4ea6-aeb2-5f9b86d059f6 =250x250)
 
 
 
