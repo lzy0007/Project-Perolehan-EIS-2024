@@ -3,6 +3,13 @@ Welcome to the Project Perolehan Repository for ENTERPRISE SYSTEMS DESIGN AND MO
 
 **Please CLICK ON your group name to enter your group's Project Management Tab!**
 
+OR
+
+**Click on the Red Circle Tab!**
+![image](https://github.com/lzy0007/Project-Perolehan-EIS-2024/assets/95710157/cca7f6d1-924a-4ea6-aeb2-5f9b86d059f6)
+
+
+
 |Group                          |Team|
 |-------------------------------|-|
 |<a href="" >Architect</a>|IT|
