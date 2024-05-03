@@ -5,13 +5,13 @@ Welcome to the Project Perolehan Repository for ENTERPRISE SYSTEMS DESIGN AND MO
 
 |Group                          |Team|
 |-------------------------------|-|
-|<a href="" >IT</a>|<a href="" >IT</a>|
-|<a href="" >IT</a>|<a href="" >Business</a>|
-|<a href="" >IT</a>|<a href="" >Business</a>|
-|<a href="" >IT</a>|<a href="" >IT</a>|
-|<a href="https://github.com/users/lzy0007/projects/7" >Crypton</a>|<a href="" >IT</a>|
-|<a href="" >IT</a>|<a href="" >IT</a>|
-|<a href="" >IT</a>|<a href="" >Business</a>|
-|<a href="" >IT</a>|<a href="" >Business</a>|
-|<a href="" >IT</a>|<a href="" >Business</a>|
-|<a href="" >IT</a>|<a href="" >IT</a>|
+|<a href="" >Architect</a>|IT|
+|<a href="" >ADventure</a>|Business|
+|<a href="" >LogiTech</a>|Business|
+|<a href="" >qwerty</a>|IT|
+|<a href="https://github.com/users/lzy0007/projects/7" >Crypton</a>|IT|
+|<a href="" >TITANS</a>|IT|
+|<a href="" >NexusPro</a>|Business|
+|<a href="" >JavaJunkies</a>|Business|
+|<a href="" >DevDream</a>|Business|
+|<a href="" >DataSmiths</a>|IT|
