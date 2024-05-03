@@ -1,6 +1,8 @@
 # Project-Perolehan-EIS-2024
 Welcome to the Project Perolehan Repository for ENTERPRISE SYSTEMS DESIGN AND MODELING (Work-Based Learning) Course!
 
+**13/5 Role Play Session (IT and Business)**
+
 **Please CLICK ON your group name to enter your group's Project Management Tab!**
 
 OR
